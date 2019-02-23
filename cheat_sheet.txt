@@ -2,16 +2,23 @@ Page: 215.9 mm wide, 279.4 mm high
 Margins: 14 mm on all sides
 = non-margin width: 187.9 mm, non-margin height: 251.4 mm
 
-Title: Century Schoolbook L Italic
+Title: Nimbus Roman Italic, subtitle Nimbus Roman Regular
 
-Feature titles: Century Schoolbook L Bold Italic
+Feature titles: Nimbus Roman Bold Italic
 Feature bodies: Nimbus Sans regular
 Feature title:  7.5 width 16 pt bold italic, subtitle 5.0 width 12 pt italic
 2.5 mm space between title and text
 (F3 to adjust default styles)
 
+First page:
 Three column text:  10 mm margins between cols, each col 55.97 mm wide
 Two column text: 10 mm margin, 88.95 width per column
 Two column text, one twice as wide:  10 mm margin, small col 59.3 mm side, large col 118.6 mm wide
 
+Subsequent pages (with guides at 42 mm and 173.9 mm): 
+Three column text:
+Two column text: 
+Two column text, one twice as wide:
+
 Space between features (top to bottom): 10 mm
+
