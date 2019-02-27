@@ -15,9 +15,9 @@ Three column text:  10 mm margins between cols, each col 55.97 mm wide
 Two column text: 10 mm margin, 88.95 width per column
 Two column text, one twice as wide:  10 mm margin, small col 59.3 mm side, large col 118.6 mm wide
 
-Subsequent pages (with guides at 42 mm and 173.9 mm): 
+Subsequent pages: 
 Three column text:
-Two column text: 
+Two column text: 10 mm margin between; each 81.95 mm wide 
 Two column text, one twice as wide:
 
 Space between features (top to bottom): 10 mm
