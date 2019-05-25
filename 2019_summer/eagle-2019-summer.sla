@@ -22,7 +22,7 @@
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="1" LINESP="10" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Nimbus Sans Regular" FONTSIZE="10"/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="10" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Nimbus Sans Regular" FONTSIZE="10"/>
         <STYLE NAME="CMIAOfficersParagraphStyle" LINESPMode="1" NACH="0" FONT="Nimbus Sans Regular"/>
         <STYLE NAME="FeatureTextParagraphStyle" ALIGN="0" LINESPMode="1" LINESP="10" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="6" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Nimbus Sans Regular" FONTSIZE="12"/>
         <STYLE NAME="FeatureTitleParagraphStyle" ALIGN="0" LINESPMode="1" LINESP="10" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="6" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Nimbus Sans Bold" FONTSIZE="18"/>
@@ -31,7 +31,7 @@
         <STYLE NAME="BlastParagraphStyle" ALIGN="0" LINESPMode="1" LINESP="10" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Nimbus Sans Regular" FONTSIZE="12"/>
         <STYLE NAME="FeaturePhotoCaptionParagraphStyle" ALIGN="0" LINESPMode="1" LINESP="10" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Nimbus Sans Italic" FONTSIZE="10" KERN="-2"/>
         <STYLE NAME="FeatureListTextParagraphStyle" ALIGN="0" LINESPMode="1" LINESP="10" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="3" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Nimbus Sans Regular" FONTSIZE="12"/>
-        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Bitstream Vera Sans Bold" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="Bitstream Vera Sans Bold" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <LAYERS NUMMER="4" LEVEL="0" NAME="MailingPageBkgrnd" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
         <LAYERS NUMMER="5" LEVEL="1" NAME="MailingPageText" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff00ff"/>
         <LAYERS NUMMER="2" LEVEL="2" NAME="FeatureLeftNRightMasterBkgrnd" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
@@ -94,13 +94,13 @@
         <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.6850393700787" BORDERRIGHT="39.6850393700787" BORDERTOP="39.6850393700787" BORDERBOTTOM="39.6850393700787" NUM="2" NAM="Feature Left" MNAM="" Size="Letter" Orientation="0" LEFT="1" PRESET="2" VerticalGuides="39.685 119.055 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.6850393700787" BORDERRIGHT="39.6850393700787" BORDERTOP="39.6850393700787" BORDERBOTTOM="39.6850393700787" NUM="3" NAM="Feature Right" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="492.945 572.315 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.6850393700787" BORDERRIGHT="39.6850393700787" BORDERTOP="39.6850393700787" BORDERBOTTOM="39.6850393700787" NUM="4" NAM="Mailing Page" MNAM="" Size="Letter" Orientation="0" LEFT="1" PRESET="2" VerticalGuides="" HorizontalGuides="396 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGE PAGEXPOS="712.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.9996850393701" BORDERRIGHT="39.9996850393701" BORDERTOP="39.9996850393701" BORDERBOTTOM="39.9996850393701" NUM="0" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="39.685 79.3701 532.63 572.315 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="852.00094488189" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.6850393700787" BORDERRIGHT="39.6850393700787" BORDERTOP="39.6850393700787" BORDERBOTTOM="39.6850393700787" NUM="1" NAM="" MNAM="Feature Left" Size="Letter" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="39.685 79.3701 532.63 572.315 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGE PAGEXPOS="712.00062992126" PAGEYPOS="852.00094488189" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.6850393700787" BORDERRIGHT="39.6850393700787" BORDERTOP="39.6850393700787" BORDERBOTTOM="39.6850393700787" NUM="2" NAM="" MNAM="Feature Right" Size="Letter" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="39.685 79.3701 532.63 572.315 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1684.00062992126" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.6850393700787" BORDERRIGHT="39.6850393700787" BORDERTOP="39.6850393700787" BORDERBOTTOM="39.6850393700787" NUM="3" NAM="" MNAM="Feature Left" Size="Letter" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="39.685 79.3701 532.63 572.315 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGE PAGEXPOS="712.00062992126" PAGEYPOS="1684.00062992126" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.6850393700787" BORDERRIGHT="39.6850393700787" BORDERTOP="39.6850393700787" BORDERBOTTOM="39.6850393700787" NUM="4" NAM="" MNAM="Feature Right" Size="Letter" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="39.685 79.3701 532.63 572.315 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="2516.00031496063" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.6850393700787" BORDERRIGHT="39.6850393700787" BORDERTOP="39.6850393700787" BORDERBOTTOM="39.6850393700787" NUM="5" NAM="" MNAM="Feature Left" Size="Letter" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="39.685 79.3701 532.63 572.315 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGE PAGEXPOS="712.00062992126" PAGEYPOS="2516.00031496063" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.6850393700787" BORDERRIGHT="39.6850393700787" BORDERTOP="39.6850393700787" BORDERBOTTOM="39.6850393700787" NUM="6" NAM="" MNAM="Feature Right" Size="Letter" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="39.685 79.3701 572.315 530.079 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="712.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.9996850393701" BORDERRIGHT="39.9996850393701" BORDERTOP="39.9996850393701" BORDERBOTTOM="39.9996850393701" NUM="0" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="39.685 79.3701 572.315 533.029 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="852.00094488189" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.6850393700787" BORDERRIGHT="39.6850393700787" BORDERTOP="39.6850393700787" BORDERBOTTOM="39.6850393700787" NUM="1" NAM="" MNAM="Feature Left" Size="Letter" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="39.685 79.3701 532.63 572.315 119.055 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="712.00062992126" PAGEYPOS="852.00094488189" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.6850393700787" BORDERRIGHT="39.6850393700787" BORDERTOP="39.6850393700787" BORDERBOTTOM="39.6850393700787" NUM="2" NAM="" MNAM="Feature Right" Size="Letter" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="39.685 79.3701 532.63 572.315 492.945 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1684.00062992126" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.6850393700787" BORDERRIGHT="39.6850393700787" BORDERTOP="39.6850393700787" BORDERBOTTOM="39.6850393700787" NUM="3" NAM="" MNAM="Feature Left" Size="Letter" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="39.685 79.3701 532.63 572.315 119.055 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="712.00062992126" PAGEYPOS="1684.00062992126" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.6850393700787" BORDERRIGHT="39.6850393700787" BORDERTOP="39.6850393700787" BORDERBOTTOM="39.6850393700787" NUM="4" NAM="" MNAM="Feature Right" Size="Letter" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="39.685 79.3701 532.63 572.315 492.945 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="2516.00031496063" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.6850393700787" BORDERRIGHT="39.6850393700787" BORDERTOP="39.6850393700787" BORDERBOTTOM="39.6850393700787" NUM="5" NAM="" MNAM="Feature Left" Size="Letter" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="39.685 79.3701 532.63 572.315 119.055 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="712.00062992126" PAGEYPOS="2516.00031496063" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.6850393700787" BORDERRIGHT="39.6850393700787" BORDERTOP="39.6850393700787" BORDERBOTTOM="39.6850393700787" NUM="6" NAM="" MNAM="Feature Right" Size="Letter" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="39.685 79.3701 572.315 530.079 492.945 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3348" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="39.6850393700787" BORDERRIGHT="39.6850393700787" BORDERTOP="39.6850393700787" BORDERBOTTOM="39.6850393700787" NUM="7" NAM="" MNAM="Mailing Page" Size="Letter" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="39.685 79.3701 532.63 572.315 " HorizontalGuides="356.315 396 435.685 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <MASTEROBJECT OwnPage="4" PTYPE="4" XPOS="139.685669291339" YPOS="59.6862992125984" WIDTH="255.118110236221" HEIGHT="56.6929133858268" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Century Schoolbook L Roman" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.118 0 255.118 0 255.118 0 255.118 0 255.118 56.6929 255.118 56.6929 255.118 56.6929 255.118 56.6929 0 56.6929 0 56.6929 0 56.6929 0 56.6929 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.118 0 255.118 0 255.118 0 255.118 0 255.118 56.6929 255.118 56.6929 255.118 56.6929 255.118 56.6929 0 56.6929 0 56.6929 0 56.6929 0 56.6929 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="Mailing Page" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="5" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="Carrollton Manor Improvement Association"/>
@@ -120,7 +120,7 @@
             <PageItemAttributes/>
         </MASTEROBJECT>
         <MASTEROBJECT OwnPage="2" PTYPE="4" XPOS="180.788031496063" YPOS="754.741417322835" WIDTH="245.055118110236" HEIGHT="14.1732283464567" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 245.055 0 245.055 0 245.055 0 245.055 0 245.055 14.1732 245.055 14.1732 245.055 14.1732 245.055 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 245.055 0 245.055 0 245.055 0 245.055 0 245.055 14.1732 245.055 14.1732 245.055 14.1732 245.055 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="Feature Left" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Nimbus Roman Regular" FONTSIZE="10" SCALEV="100" CH="The Eagle · Spring 2019"/>
+            <ITEXT FONT="Nimbus Roman Regular" FONTSIZE="10" SCALEV="100" CH="The Eagle · Summer 2019"/>
             <trail/>
             <PageItemAttributes/>
         </MASTEROBJECT>
@@ -237,13 +237,9 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="948.126614173229" YPOS="172.072125984252" WIDTH="336.188976377953" HEIGHT="181.927874015748" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Feature1Title" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 336.189 0 336.189 0 336.189 0 336.189 0 336.189 181.928 336.189 181.928 336.189 181.928 336.189 181.928 0 181.928 0 181.928 0 181.928 0 181.928 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 336.189 0 336.189 0 336.189 0 336.189 0 336.189 181.928 336.189 181.928 336.189 181.928 336.189 181.928 0 181.928 0 181.928 0 181.928 0 181.928 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="16" CH="Community Beautification Day - Sat. May 4"/>
+            <ITEXT CH="Title"/>
             <para PARENT="FeatureTitleParagraphStyle"/>
-            <ITEXT CH="Grab your gloves, shovels and community pride! This is a great event for all ages and a way to help kids understand the value of community spirit. We will be planting lots of native plants and flowers for everyone to enjoy all summer long! Activities may include some light debris removal, weeding and planting flowers at our community properties. "/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT CH="Contact Lisa Bender at 410.544.4874 for more information. "/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT CH="Can’t participate on work day? Consider taking a family walk around the community collecting trash along the way. Meet your neighborhood AND help beautify CM."/>
+            <ITEXT CH="Text"/>
             <para PARENT="FeatureTextParagraphStyle"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -335,225 +331,19 @@
             <para PARENT="FeatureListTextParagraphStyle"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="179.370708661417" YPOS="1723.68566929126" WIDTH="492.944881889764" HEIGHT="532.913385826772" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 532.913 492.945 532.913 492.945 532.913 492.945 532.913 0 532.913 0 532.913 0 532.913 0 532.913 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 532.913 492.945 532.913 492.945 532.913 492.945 532.913 0 532.913 0 532.913 0 532.913 0 532.913 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="18" CH="2019 CMIA Key Day &amp; Canoe Rack Lottery"/>
+        <PAGEOBJECT OwnPage="-1" PTYPE="4" XPOS="1342.37070866142" YPOS="131.68566929126" WIDTH="492.944881889764" HEIGHT="124.697257538008" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 124.697 492.945 124.697 492.945 124.697 492.945 124.697 0 124.697 0 124.697 0 124.697 0 124.697 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 124.697 492.945 124.697 492.945 124.697 492.945 124.697 0 124.697 0 124.697 0 124.697 0 124.697 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Title"/>
             <para PARENT="FeatureTitleParagraphStyle"/>
-            <ITEXT FONTSIZE="18" CH="Sat. March 23, 9:00 a.m. - 12:00 p.m."/>
+            <ITEXT CH="Subtitle"/>
             <para PARENT="FeatureSubtitleParagraphStyle"/>
-            <ITEXT FONTSIZE="18" CH="Severna Park Baptist Church "/>
+            <ITEXT CH="Body"/>
+            <trail PARENT="FeatureTextParagraphStyle"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="-1" PTYPE="4" XPOS="1343.37070866142" YPOS="28.94551181102" WIDTH="492.944881889764" HEIGHT="85.0393700787402" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="CM-Navy" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (3)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="7.086614173" TEXTRA="7.086614173" BEXTRA="7.086614173" REXTRA="7.086614173" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 85.0394 492.945 85.0394 492.945 85.0394 492.945 85.0394 0 85.0394 0 85.0394 0 85.0394 0 85.0394 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 85.0394 492.945 85.0394 492.945 85.0394 492.945 85.0394 0 85.0394 0 85.0394 0 85.0394 0 85.0394 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Title"/>
             <para PARENT="FeatureSubtitleParagraphStyle"/>
-            <ITEXT CH="New to Carrollton Manor?  Didn’t get your keys or parking tags last year?  Come to Key Day! Don’t risk being locked out of Hillbottom Beach, or the Crab Away pier, because your keys and tags aren’t current!  Note: Keys and tags purchased in 2018 will work until 2020 season."/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT FONT="Nimbus Sans Bold" CH="Gate Keys &amp; Parking Tags "/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT CH="Black gate keys: [Hillbottom Beach/Crabaway pier]"/>
-            <tab/>
-            <ITEXT CH="$   7.00"/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT CH="Boat ramp:"/>
-            <tab/>
-            <tab/>
-            <tab/>
-            <tab/>
-            <tab/>
-            <tab/>
-            <tab/>
-            <ITEXT CH="$ 25.00"/>
-            <para PARENT="FeatureListTextParagraphStyle" ALIGN="0"/>
-            <ITEXT CH="Parking stickers:"/>
-            <tab/>
-            <tab/>
-            <tab/>
-            <tab/>
-            <tab/>
-            <tab/>
-            <ITEXT CH="$   2.00"/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT CH="Parking stickers are required to park your car at Hillbottom Beach."/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT CH="Please bring checks made payable to CMIA or cash—no credit cards. Bring your license, or proof of residency, and registration cards for each vehicle needing a parking tag. License plate tag numbers and make, model, color of vehicle are required. Tags and keys will not be issued otherwise."/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT CH=" "/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT FONT="Nimbus Sans Bold" CH="Note: Keys will not be available on demand after Key Day.  After that date, advanced arrangements will be required to obtain keys and parking tag/stickers.  "/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT FONT="Nimbus Sans Bold" CH="Kayak/Canoe Rack Lottery "/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT CH="Entries available at Key Day and at the March CMIA meeting.  Names will be pulled in April and you will be notified if you have &quot;won&quot; a slot.  Season runs May 1 - Dec. 1, fee is $25.00."/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT CH="Canoes and watercraft without an assigned slip or rack will be considered “abandoned” and removed from any community properties.  Once assigned a rack, you are responsible for securing your boat. "/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT CH="Boats to be on the rack within thirty days of assignment.  CMIA reserves the right to re-assign any rack space not occupied for thirty consecutive days, or used for storage.  Fee is non-refundable."/>
-            <trail PARENT="FeatureListTextParagraphStyle"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="179.370708661417" YPOS="2555.68535433071" WIDTH="232.299212598425" HEIGHT="136.062992125984" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="CM-Navy" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (2)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="7.08661417322835" TEXTRA="7.08661417322835" BEXTRA="7.08661417322835" REXTRA="7.08661417322835" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 232.299 0 232.299 0 232.299 0 232.299 0 232.299 136.063 232.299 136.063 232.299 136.063 232.299 136.063 0 136.063 0 136.063 0 136.063 0 136.063 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 232.299 0 232.299 0 232.299 0 232.299 0 232.299 136.063 232.299 136.063 232.299 136.063 232.299 136.063 0 136.063 0 136.063 0 136.063 0 136.063 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Social Notes"/>
-            <para PARENT="FeatureSubtitleParagraphStyle"/>
-            <ITEXT CH="Please note: ‘NextDoor Carrollton Manor’ and ‘Carrollton Manor Neighbor Initiative’ are privately organized groups. They not sponsored or affiliated with the ‘Carrollton Manor Improvement Association’ [CMIA] or the community of Carrollton Manor."/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="179.370708661417" YPOS="2284.94551181102" WIDTH="492.944881889764" HEIGHT="85.0393700787402" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="CM-Navy" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (3)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="7.086614173" TEXTRA="7.086614173" BEXTRA="7.086614173" REXTRA="7.086614173" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 85.0394 492.945 85.0394 492.945 85.0394 492.945 85.0394 0 85.0394 0 85.0394 0 85.0394 0 85.0394 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 85.0394 492.945 85.0394 492.945 85.0394 492.945 85.0394 0 85.0394 0 85.0394 0 85.0394 0 85.0394 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Update on W. Benfield Rd."/>
-            <para PARENT="FeatureSubtitleParagraphStyle"/>
-            <ITEXT CH="Unfortunately, DPW has reported that W. Benfield Rd. will not reopen until late 2019. Completion of the 'Shipley's Dam' replacement has been delayed due to a rainy wet 2018. Please continue to be patient with all the detours and delays. "/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="440.016377952756" YPOS="2555.68535433071" WIDTH="232.299212598425" HEIGHT="136.062992125984" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="CM-Navy" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (5)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="7.086614173" TEXTRA="7.086614173" BEXTRA="7.086614173" REXTRA="7.086614173" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 232.299 0 232.299 0 232.299 0 232.299 0 232.299 136.063 232.299 136.063 232.299 136.063 232.299 136.063 0 136.063 0 136.063 0 136.063 0 136.063 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 232.299 0 232.299 0 232.299 0 232.299 0 232.299 136.063 232.299 136.063 232.299 136.063 232.299 136.063 0 136.063 0 136.063 0 136.063 0 136.063 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="A Careful Driving Reminder"/>
-            <para PARENT="FeatureSubtitleParagraphStyle"/>
-            <ITEXT CH="The days are finally getting warmer and everyone is starting to come out to play. Remember to drive carefully through our narrow streets. Please look out for everyone who is not looking out for you, especially children. "/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="179.370708661417" YPOS="2720.09480314961" WIDTH="492.944881889764" HEIGHT="386.929133858268" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (6)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 386.929 492.945 386.929 492.945 386.929 492.945 386.929 0 386.929 0 386.929 0 386.929 0 386.929 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 386.929 492.945 386.929 492.945 386.929 492.945 386.929 0 386.929 0 386.929 0 386.929 0 386.929 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="18" CH="Pier Ye, Pier Ye"/>
-            <para PARENT="FeatureTitleParagraphStyle"/>
-            <ITEXT CH="It's that wonderful time of year when nautical hearts, young and old, turn to the challenges of readying our vessels for the launch of a new boating season."/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT FONT="Nimbus Sans Bold" CH="Slip Holders: "/>
-            <ITEXT CH="Renew your 2019 contracts on Key Day. Please remember to bring your boat registration and proof of insurance. If you plan on either giving up or not using your slip this year, please call Don Price at 410.647.1189 as soon as possible."/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT FONT="Nimbus Sans Bold" CH="Pier Slips:"/>
-            <ITEXT CH=" Anyone interested in adding their name to the Pier Slip Wait List, fill out the application found at www.carrolltonmanor.us/resources/pier-wait-list and bring it to Key Day or mail it to CMIA with a check for $25.00. Please include a working phone number as we will need to call you. The wait list is updated on the CMIA website annually, but kept current by Pier Committee. "/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT CH="We make an effort to allow as many residents as possible to enjoy our community pier. Pier slip sublets "/>
-            <ITEXT FONT="Nimbus Sans Bold" FEATURES="inherit underlinewords" CH="MAY"/>
-            <ITEXT CH=" be made available again this season when possible. This is managed by the pier on a first-come/first served basis, as deemed available, and "/>
-            <ITEXT FONT="Nimbus Sans Bold" CH="is not guaranteed"/>
-            <ITEXT CH=".  If interested, please contact Don Price at 410.647.1189 to get on the ‘Sublet List’."/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT CH="Do not store a boat on the beach! Boats left on the beach and in the woods are not only an eyesore, but a potential danger to children and pets as well as a breeding ground for insects and rodents. Unattended boats will be considered abandoned and removed."/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="179.370708661417" YPOS="3121.19716535433" WIDTH="492.944881889764" HEIGHT="128.341417322835" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (7)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 128.341 492.945 128.341 492.945 128.341 492.945 128.341 0 128.341 0 128.341 0 128.341 0 128.341 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 128.341 492.945 128.341 492.945 128.341 492.945 128.341 0 128.341 0 128.341 0 128.341 0 128.341 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="14" CH="ATTENTION BOATERS: Save 50% off regular Annual BOAT U.S. Dues!"/>
-            <para PARENT="FeatureSubtitleParagraphStyle"/>
-            <ITEXT FONTSIZE="12" CH="CMIA has a cooperative agreement with BOAT U.S. that offers reduced annual dues to Carrollton Manor residents. Membership benefits include: special discounts and Member Rewards with purchases, discounts at more than 600 marinas, boat insurance, on-the-water towing services, and a 1-year subscription to BOAT U.S. Magazine"/>
-            <ITEXT CH="."/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT FONTSIZE="12" CH="If you are signing up for a Boat U.S. Membership please mention our CoOp #GA81464B to get your special rate."/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="751.685669291339" YPOS="1723.68566929126" WIDTH="492.944881889764" HEIGHT="694.197257538008" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (8)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 694.197 492.945 694.197 492.945 694.197 492.945 694.197 0 694.197 0 694.197 0 694.197 0 694.197 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 694.197 492.945 694.197 492.945 694.197 492.945 694.197 0 694.197 0 694.197 0 694.197 0 694.197 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="April Showers Bring May Flowers"/>
-            <para PARENT="FeatureTitleParagraphStyle"/>
-            <ITEXT CH="There may still be snow on the ground but, if you are like me, you are staring out the window and dreaming up plans for spring. CMIA has been beautifying our community properties with a focus on using native plants. HillBottom Beach has been certified as ‘Bay Wise”- a Bay Friendly property that will support the healing of the Severn, with minimizing pollution footprints practices.  This year, as you plan your summer garden and yard, consider native landscaping."/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT CH="Using native plants in your yard is an excellent way to help the Chesapeake Bay. Native plants are the flowers, ferns, trees, shrubs, and grasses that have always grown, and are adapted to our area. They don’t need the amount of fertilization and insecticides as non-native plants, and require less watering and maintenance to thrive. When we replace our lawns with native trees, shrubs and perennials, we reduce the amount of chemicals and water run-off from our properties during rain events, carrying pollutants directly into storm drains and the Severn River. Native plants generally have deep root systems that can help the negative pollutants from runoff and help reduce and control erosion.  "/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT CH="Reducing pollutants that seep and flow into the Severn River is one way everyone can help clean up and improve the river we all enjoy. "/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT CH="It is also important to eliminate, or replace, non-native and aggressive, invasive plants in your yard. Invasive plants, such as English ivy, bamboo, and kudzu, may harbor harmful pests and can easily spread out of control - overwhelming and killing native, more beneficial vegetation."/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT CH="Native plants in your yard is an excellent way to increase wildlife habitat. Native plants provide the best source of food for birds, butterflies and other critters. So, plant a Butterfly, Songbird, Humming Bird, or Critter Garden this year and enjoy all the wonders of going ‘native’."/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT CH="Native wildflowers, flowering vines, shrubs, and trees offer a wide range of colors, textures and forms to create dynamic seasonal displays. Grasses and sedges have interesting flowers and seed heads and yellow–orange fall color. Shrubs and trees have fall color and berries that persist into the winter. Choosing a wide assortment of plants ensures seasonal interest, with the bonus of attracting colorful birds, butterflies and insects."/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT CH="The best way to figure out which plants are native is to explore a book or online guide that describes native plants. "/>
-            <ITEXT FONT="Nimbus Sans Bold" CH="Here are some excellent resources to help you get started: "/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT FONTSIZE="10" CH="US Fish &amp; Wildlife Service:"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="www.nativeplantcenter.net "/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT FONTSIZE="10" CH="Chesapeake Ecology Center:"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="www.chesapeakeecologycenter.org"/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT FONTSIZE="10" CH="Friendly Landscaping Resource List:"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="www.cbf.org/landscaping "/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT FONTSIZE="10" CH="Bay Scape gardens:  "/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="www.fws.gov/chesapeakebay/bayscapes.htm"/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT FONTSIZE="10" CH="RainScaping:  "/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="www.rainscaping.org "/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT FONTSIZE="10" CH="Ten Ways to a Bay Friendly Lawn:  "/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="www.cbf.org/document-library/cbf-guides-fact-"/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="sheets/10_steps_lawn2fc6.pdf"/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT FONTSIZE="10" CH="Maryland Native Plants:  "/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="www.nativeplantcenter.net"/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT FONTSIZE="10" CH="National Wildlife Federation:  "/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="www.nwf.org "/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT FONTSIZE="10" CH="Bay Scape gardens:  "/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="www.fws.gov/chesapeakebay/bayscapes.htm "/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT FONTSIZE="10" CH="Invasive plants and control:  "/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="www.nps.gov/plants/alien/pubs/midatlantic/ "/>
-            <para PARENT="FeatureListTextParagraphStyle"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="751.685669291339" YPOS="2871.03968503937" WIDTH="492.9448819" HEIGHT="373.460314960631" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (9)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 373.46 492.945 373.46 492.945 373.46 492.945 373.46 0 373.46 0 373.46 0 373.46 0 373.46 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 373.46 492.945 373.46 492.945 373.46 492.945 373.46 0 373.46 0 373.46 0 373.46 0 373.46 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Spring Reminders"/>
-            <para PARENT="FeatureTitleParagraphStyle"/>
-            <ITEXT CH="• The days are finally getting warmer and everyone is starting to come out to play. You never know when a child or pet will dart out into the street. Please remember to drive carefully through our narrow streets, slowly and with care!"/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT CH="• As we clean up from winter, please remember, yard waste and tree trimmings should becomposted or placed at the curb for weekly pickup,  Please do not dump your yard waste on CMIA Community Property. Unfortunately, this has become a big problem. We have been working hard to beautify our neighborhood. Planting is fun...but having to clean up trash is not!"/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT CH="• Please "/>
-            <zwspace/>
-            <ITEXT FEATURES="inherit underline" CH="never ever"/>
-            <ITEXT FEATURES="inherit" CH=" l"/>
-            <ITEXT CH="et your pet leave ‘poo’ on the community beaches, in the street, or on your neighbor’s yard.  Pick up and dispose of poop properly in the trash. Pet waste bacteria is one of the leading causes of unhealthy water quality for the Severn River."/>
-            <para PARENT="FeatureTextParagraphStyle"/>
-            <ITEXT CH="• Please teach your children respect, and pride, for "/>
-            <zwspace/>
-            <ITEXT FONT="Nimbus Sans Bold" CH="their"/>
-            <ITEXT CH=" "/>
-            <zwspace/>
-            <ITEXT CH="community. Do not let your children pick the flowers in our community gardens, break branches off trees, or leave litter/trash on CMIA properties or at the bus stops. Community pride, and responsibility, can start early."/>
+            <ITEXT CH="Body"/>
             <trail PARENT="FeatureTextParagraphStyle"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -712,7 +502,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1210.89826770079" YPOS="134.09574804252" WIDTH="68.0314960629921" HEIGHT="11.33858268" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of SubtitleText2 (2)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 68.0315 0 68.0315 0 68.0315 0 68.0315 0 68.0315 11.3386 68.0315 11.3386 68.0315 11.3386 68.0315 11.3386 0 11.3386 0 11.3386 0 11.3386 0 11.3386 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 68.0315 0 68.0315 0 68.0315 0 68.0315 0 68.0315 11.3386 68.0315 11.3386 68.0315 11.3386 68.0315 11.3386 0 11.3386 0 11.3386 0 11.3386 0 11.3386 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="11" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Nimbus Roman Regular" FONTSIZE="9" SCALEH="110" CH="Spring 2019"/>
+            <ITEXT FONT="Nimbus Roman Regular" FONTSIZE="9" SCALEH="110" CH="Summer 2019"/>
             <trail ALIGN="0"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -734,29 +524,16 @@
             <trail PARENT="FeatureListTextParagraphStyle"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="139.685669291339" YPOS="2832.16535433071" WIDTH="257.75" HEIGHT="189" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24609375" LOCALSCY="0.24609375" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="pier4.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.75 0 257.75 0 257.75 0 257.75 0 257.75 189 257.75 189 257.75 189 257.75 189 0 189 0 189 0 189 0 189 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.75 0 257.75 0 257.75 0 257.75 0 257.75 189 257.75 189 257.75 189 257.75 189 0 189 0 189 0 189 0 189 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="1128.41007874016" YPOS="2086.91428060128" WIDTH="155.905511811024" HEIGHT="202.948091204239" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.506186726659169" LOCALSCY="0.506186726659169" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Native Plants.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 155.906 0 155.906 0 155.906 0 155.906 0 155.906 202.948 155.906 202.948 155.906 202.948 155.906 202.948 0 202.948 0 202.948 0 202.948 0 202.948 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 155.906 0 155.906 0 155.906 0 155.906 0 155.906 202.948 155.906 202.948 155.906 202.948 155.906 202.948 0 202.948 0 202.948 0 202.948 0 202.948 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="1035.00850393701" YPOS="1203.49700787402" WIDTH="252.141732283465" HEIGHT="373.484409448819" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.221521002045563" LOCALSCY="0.221521002045563" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="snow_girl.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 252.142 0 252.142 0 252.142 0 252.142 0 252.142 373.484 252.142 373.484 252.142 373.484 252.142 373.484 0 373.484 0 373.484 0 373.484 0 373.484 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 252.142 0 252.142 0 252.142 0 252.142 0 252.142 373.484 252.142 373.484 252.142 373.484 252.142 373.484 0 373.484 0 373.484 0 373.484 0 373.484 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="-1" PTYPE="2" XPOS="1459.00850393701" YPOS="339.49700787402" WIDTH="252.141732283465" HEIGHT="373.484409448819" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.221521002045563" LOCALSCY="0.221521002045563" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="snow_girl.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 252.142 0 252.142 0 252.142 0 252.142 0 252.142 373.484 252.142 373.484 252.142 373.484 252.142 373.484 0 373.484 0 373.484 0 373.484 0 373.484 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 252.142 0 252.142 0 252.142 0 252.142 0 252.142 373.484 252.142 373.484 252.142 373.484 252.142 373.484 0 373.484 0 373.484 0 373.484 0 373.484 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="751.685669291339" YPOS="1203.49700787402" WIDTH="252.141732283465" HEIGHT="373.484940944882" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.525295275590551" LOCALSCY="0.525295275590551" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Snowman.jpg" PFILE2="" PFILE3="" PRFILE="Embedded c2" EPROF="Embedded c2" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 252.142 0 252.142 0 252.142 0 252.142 0 252.142 373.485 252.142 373.485 252.142 373.485 252.142 373.485 0 373.485 0 373.485 0 373.485 0 373.485 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 252.142 0 252.142 0 252.142 0 252.142 0 252.142 373.485 252.142 373.485 252.142 373.485 252.142 373.485 0 373.485 0 373.485 0 373.485 0 373.485 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="6" PTYPE="2" XPOS="944.158110236221" YPOS="3003.55937007874" WIDTH="340.157480314961" HEIGHT="191.338582677165" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.265748031496062" LOCALSCY="0.265748031496062" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="kingfisher pic.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 340.157 0 340.157 0 340.157 0 340.157 0 340.157 191.339 340.157 191.339 340.157 191.339 340.157 191.339 0 191.339 0 191.339 0 191.339 0 191.339 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 340.157 0 340.157 0 340.157 0 340.157 0 340.157 191.339 340.157 191.339 340.157 191.339 340.157 191.339 0 191.339 0 191.339 0 191.339 0 191.339 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="944.158110236221" YPOS="3199.85858267717" WIDTH="340.157480314961" HEIGHT="28.3464566929134" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 340.157 0 340.157 0 340.157 0 340.157 0 340.157 28.3465 340.157 28.3465 340.157 28.3465 340.157 28.3465 0 28.3465 0 28.3465 0 28.3465 0 28.3465 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 340.157 0 340.157 0 340.157 0 340.157 0 340.157 28.3465 340.157 28.3465 340.157 28.3465 340.157 28.3465 0 28.3465 0 28.3465 0 28.3465 0 28.3465 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Nimbus Sans Italic" FONTSIZE="10" CH="Above:  a kingfisher perched at HIllbottom Beach, February 2019."/>
-            <trail ALIGN="2"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="7" PTYPE="4" XPOS="420.173858267717" YPOS="3787.93700787402" WIDTH="252.141732283465" HEIGHT="309.543307086614" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (4)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="7.08661417322835" TEXTRA="7.08661417322835" BEXTRA="7.08661417322835" REXTRA="7.08661417322835" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 252.142 0 252.142 0 252.142 0 252.142 0 252.142 309.543 252.142 309.543 252.142 309.543 252.142 309.543 0 309.543 0 309.543 0 309.543 0 309.543 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 252.142 0 252.142 0 252.142 0 252.142 0 252.142 309.543 252.142 309.543 252.142 309.543 252.142 309.543 0 309.543 0 309.543 0 309.543 0 309.543 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="5" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -768,9 +545,73 @@
             <para PARENT="FeatureTextParagraphStyle"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="944.15811022126" YPOS="1189.32377952756" WIDTH="340.1574803" HEIGHT="14.1732283464567" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 340.157 0 340.157 0 340.157 0 340.157 0 340.157 14.1732 340.157 14.1732 340.157 14.1732 340.157 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 340.157 0 340.157 0 340.157 0 340.157 0 340.157 14.1732 340.157 14.1732 340.157 14.1732 340.157 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Nimbus Sans Italic" CH="Below: a few of the many snowmen that popped up across CM this winter."/>
-            <trail ALIGN="2"/>
+        <PAGEOBJECT OwnPage="-1" PTYPE="4" XPOS="1375.15811022126" YPOS="728.32377952756" WIDTH="340.1574803" HEIGHT="14.1732283464567" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 340.157 0 340.157 0 340.157 0 340.157 0 340.157 14.1732 340.157 14.1732 340.157 14.1732 340.157 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 340.157 0 340.157 0 340.157 0 340.157 0 340.157 14.1732 340.157 14.1732 340.157 14.1732 340.157 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Caption text tex fsdlfjsl flsjfls fsf lsf lsd flsf "/>
+            <trail PARENT="FeaturePhotoCaptionParagraphStyle" ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="-1" PTYPE="4" XPOS="1338.37070862126" YPOS="853.68566924252" WIDTH="492.9448819" HEIGHT="260.024086855041" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (2)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 260.024 492.945 260.024 492.945 260.024 492.945 260.024 0 260.024 0 260.024 0 260.024 0 260.024 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 260.024 492.945 260.024 492.945 260.024 492.945 260.024 0 260.024 0 260.024 0 260.024 0 260.024 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Mark Your Calendars Now"/>
+            <para PARENT="FeatureTitleParagraphStyle"/>
+            <ITEXT CH="CMIA Family Fun Fridays at Hillbottom Beach: STARTING SOON!"/>
+            <para PARENT="FeatureSubtitleParagraphStyle"/>
+            <ITEXT CH="It’s the place to be on Friday Nights! Come on down for tailgating, music, tetherball, horseshoes, and, of course, VOLLEYBALL.  Fun for all ages. Come join your neighbors, and friends for the best night of the week in Carrollton Manor! Watch for signs at ‘Sign Island.’ "/>
+            <para PARENT="FeatureTextParagraphStyle"/>
+            <ITEXT CH="CMIA Community Picnic Saturday, September 14, 2019 at HillBottom Beach from 2 p.m. until ??"/>
+            <para PARENT="FeatureSubtitleParagraphStyle"/>
+            <ITEXT CH="Celebrate ‘living a good life’ in Carrollton Manor with music, prizes, cookouts, and friends. Details in the September CMIA newsletter. "/>
+            <para PARENT="FeatureTextParagraphStyle"/>
+            <ITEXT CH="CMIA BOD Elections October 1, 2019 "/>
+            <para PARENT="FeatureSubtitleParagraphStyle"/>
+            <ITEXT CH="Interested in helping Carrollton Manor continue to improve? Every year two Director positions are open for election to the CMIA Board for a three-year term. If you are interested please contact any BOD member, or come to the October election meeting."/>
+            <trail PARENT="FeatureTextParagraphStyle"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="-1" PTYPE="4" XPOS="1343.37070862126" YPOS="1160.68566924252" WIDTH="492.9448819" HEIGHT="690.819208806261" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (5)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 690.819 492.945 690.819 492.945 690.819 492.945 690.819 0 690.819 0 690.819 0 690.819 0 690.819 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 690.819 492.945 690.819 492.945 690.819 492.945 690.819 0 690.819 0 690.819 0 690.819 0 690.819 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="CMIA Mosquito Control Spraying "/>
+            <para PARENT="FeatureSubtitleParagraphStyle"/>
+            <ITEXT CH="CMIA mosquito control spraying will begin Wednesday nights starting May 29 between 7:00 p.m. and 2:30 a.m. CMIA participates in the AACo. MDA Adult Mosquito control spraying program. "/>
+            <ITEXT FONT="Nimbus Sans Bold" CH="If you do not want to participate in the program"/>
+            <ITEXT CH=", you must notify the MD Dept. of Agriculture and submit a completed exemption form. Exemption applications are available thru the MD Dept. of Agriculture at http://mda.maryland.gov/plants-pests/Documents/mcsprayexemption.pdf or by calling the Program Supervisor at "/>
+            <ITEXT FONT="Nimbus Sans Bold Italic" CH="410.841.5870"/>
+            <ITEXT CH=". This program is most effective when combined with community residents’ efforts to reduce availability of breeding grounds. Here are some tips to reduce mosquito breeding areas around your home."/>
+            <para PARENT="FeatureTextParagraphStyle"/>
+            <ITEXT CH="The ABC’s of Mosquito Control"/>
+            <para PARENT="FeatureSubtitleParagraphStyle"/>
+            <ITEXT CH="Almost everyone has their very own mosquito nursery. Mosquitoes need standing water for their eggs to hatch but can do so in as little as a bottle cap or tablespoon of stagnate water in 72-96 hours. Mosquitoes hatch in places like gutters, planters and other poorly drained outdoor spaces Drainage ditches and ponds are not always the problem."/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT FONT="Nimbus Sans Bold Italic" CH="Be cautious"/>
+            <ITEXT CH=" when using insecticides, including mosquito-elimination barrier treatments, and commercial pest control yard treatments, around your home and yard. Most insecticide systems contain pyrethrins and permethrins, which also kill beneficial insects like honeybees, ladybugs and butterflies, especially when sprayed during daytime hours when bugs, birds and other critters are active."/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT FONT="Nimbus Sans Bold Italic" CH="Attention"/>
+            <ITEXT CH=": Inspect your yard for standing water and remove any unused containers, tarps, trash bags or old tires that can collect water. Tip over any containers that can hold water for more than five days at a time such as rain gauges, out-door candles and planters."/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT FONT="Nimbus Sans Bold Italic" CH="Barriers"/>
+            <ITEXT CH=": Dress in long-sleeved, white or light-colored clothing, avoid going out in the early morning and evening when mosquitoes are most active or use an insect repellant"/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT CH="Circulate or change water in outdoor dog bowls, bird-baths and the bottoms of flower pots frequently. "/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT FONT="Nimbus Sans Bold Italic" CH="Dump"/>
+            <ITEXT CH=" any containers that can hold water for more than five days at a time such as rain gauges, out-door candles and planters, Canoes, baby pools, wheelbarrows, etc. "/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT FONT="Nimbus Sans Bold Italic" CH="Eliminate"/>
+            <ITEXT CH=" standing water in the gutters, and around any DIY construction projects. Tarps are a major contributor to standing water. "/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT FONT="Nimbus Sans Bold" CH="On our community’s assigned spray night (Wednesday), MDA suggests the following precautions:"/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT CH="    • Stay indoors during spraying. Bring pets inside if possible."/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT CH="    • Shut windows"/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT CH="    • Turn off window air conditioning units"/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT CH="    • Bring in pet dishes, children’s toys, etc."/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT FEATURES="inherit underline" CH="For further information"/>
+            <ITEXT CH=", call 410-841-5870 or visit: http://mda.maryland.gov/plants-pests/pages/mosquito_control.aspx or mosquito.control@maryland.gov "/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT CH="Information on the products used can be found at: http://mda.maryland.gov/plants-pests/Pages/mc_product_labels_material_safety_data_sheets.aspx "/>
+            <trail PARENT="FeatureListTextParagraphStyle"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
