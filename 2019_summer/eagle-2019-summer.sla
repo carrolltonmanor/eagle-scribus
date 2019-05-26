@@ -342,22 +342,6 @@
             <para PARENT="FeatureListTextParagraphStyle"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="-1" PTYPE="4" XPOS="1342.37070866142" YPOS="131.68566929126" WIDTH="492.944881889764" HEIGHT="124.697257538008" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 124.697 492.945 124.697 492.945 124.697 492.945 124.697 0 124.697 0 124.697 0 124.697 0 124.697 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 124.697 492.945 124.697 492.945 124.697 492.945 124.697 0 124.697 0 124.697 0 124.697 0 124.697 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Title"/>
-            <para PARENT="FeatureTitleParagraphStyle"/>
-            <ITEXT CH="Subtitle"/>
-            <para PARENT="FeatureSubtitleParagraphStyle"/>
-            <ITEXT CH="Body"/>
-            <trail PARENT="FeatureTextParagraphStyle"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="-1" PTYPE="4" XPOS="1344.37070866142" YPOS="38.94551181102" WIDTH="492.944881889764" HEIGHT="85.0393700787402" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="CM-Navy" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (3)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="7.086614173" TEXTRA="7.086614173" BEXTRA="7.086614173" REXTRA="7.086614173" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 85.0394 492.945 85.0394 492.945 85.0394 492.945 85.0394 0 85.0394 0 85.0394 0 85.0394 0 85.0394 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 85.0394 492.945 85.0394 492.945 85.0394 492.945 85.0394 0 85.0394 0 85.0394 0 85.0394 0 85.0394 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Title"/>
-            <para PARENT="FeatureSubtitleParagraphStyle"/>
-            <ITEXT CH="Body"/>
-            <trail PARENT="FeatureTextParagraphStyle"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
         <PAGEOBJECT OwnPage="6" PTYPE="2" XPOS="1160.83464566929" YPOS="2627.98818897638" WIDTH="124" HEIGHT="160.334645669289" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.15979381443299" LOCALSCY="0.15979381443299" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../image_files/calendar3_crop.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 124 0 124 0 124 0 124 0 124 160.335 124 160.335 124 160.335 124 160.335 0 160.335 0 160.335 0 160.335 0 160.335 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 124 0 124 0 124 0 124 0 124 160.335 124 160.335 124 160.335 124 160.335 0 160.335 0 160.335 0 160.335 0 160.335 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
@@ -707,7 +691,9 @@
             <para PARENT="FeatureListTextParagraphStyle"/>
             <ITEXT CH="• Our beaches belong to everyone in the community. Please be considerate of others and share the grill and tables."/>
             <para PARENT="FeatureListTextParagraphStyle"/>
-            <ITEXT CH="• Hillbottom is not available for exclusive private use during the summer, especially on weekends. Sunset Beach and Crab Away Pier are available for your enjoyment also. All gatherings must abide by the CMIA beach rules with respect and consideration of other beach goers and surrounding residents."/>
+            <ITEXT CH="• Hillbottom is "/>
+            <ITEXT FEATURES="inherit underline" CH="not"/>
+            <ITEXT CH=" available for exclusive private use during the summer, especially on weekends. Sunset Beach and Crab Away Pier are available for your enjoyment also. All gatherings must abide by the CMIA beach rules with respect and consideration of other beach goers and surrounding residents."/>
             <para PARENT="FeatureListTextParagraphStyle"/>
             <ITEXT CH="• If you have a picnic at the beach, or have spent a day on the water, please consider taking your food leftovers home with you. Trash pick-up is only on Fridays, and food left in trash cans all week long ‘ripens’ in the hot summer sun."/>
             <para PARENT="FeatureListTextParagraphStyle"/>
@@ -731,6 +717,111 @@
             <para PARENT="FeatureListTextParagraphStyle"/>
             <ITEXT CH="• Most importantly, come out and enjoy all the advantages of living in Carrollton Manor and on the Severn River!"/>
             <trail PARENT="FeatureListTextParagraphStyle"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="-1" PTYPE="4" XPOS="754.37070862126" YPOS="3343.68566924252" WIDTH="492.9448819" HEIGHT="298.175306367236" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (13)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 298.175 492.945 298.175 492.945 298.175 492.945 298.175 0 298.175 0 298.175 0 298.175 0 298.175 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 298.175 492.945 298.175 492.945 298.175 492.945 298.175 0 298.175 0 298.175 0 298.175 0 298.175 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Pier Ye, Pier Ye"/>
+            <para PARENT="FeatureTitleParagraphStyle"/>
+            <ITEXT CH="We make an effort to allow as many residents as possible to enjoy our community. All slips are being assigned but pier slip sublets MAY be made available again this season when possible. This is managed by the pier committee, on a first-come/first served basis, as deemed available, and is not guaranteed. The pier is ‘self-supporting’ and receives no CMIA SCBD money.  If interested, please contact Don Price at 410.647.1189 to get on the Sublet List."/>
+            <para PARENT="FeatureTextParagraphStyle"/>
+            <ITEXT FONT="Nimbus Sans Bold" CH="Pier Slip Wait List:"/>
+            <ITEXT CH=" Anyone interested in adding their name to the Pier Slip Wait List, may fill out the application found at www.CarrolltonManor.com and mail it, with a check for $25.00 to CMIA, P.O. Box 1104, Severna Park, MD 21146. Please include a working phone number as we will need to call you. It is your responsibility to maintain current contact info. CMIA is not responsible for outdated info on file. "/>
+            <para PARENT="FeatureTextParagraphStyle"/>
+            <ITEXT FONT="Nimbus Sans Bold" CH="Trailer Parking at Hillbottom Beach"/>
+            <ITEXT CH=": All trailers must be parked on the left (hill) side of the parking lot. Please remember how very limited our parking is and be sure to back your trailer in as far, and straight, as possible. Trailer parking is not permitted in those spaces that abut the beach. "/>
+            <para PARENT="FeatureTextParagraphStyle"/>
+            <ITEXT CH="Thank you to the pier slip holders who worked to repair and improve the community ramp’s ‘Finger Pier’  and improve the wifi, during Pier Work Day."/>
+            <trail PARENT="FeatureTextParagraphStyle"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="-1" PTYPE="2" XPOS="786.180487804878" YPOS="3576.55853658537" WIDTH="476.709756097562" HEIGHT="274" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.248286331300814" LOCALSCY="0.248286331300814" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="image_files/Repaired and improved finger pier.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 476.71 0 476.71 0 476.71 0 476.71 0 476.71 274 476.71 274 476.71 274 476.71 274 0 274 0 274 0 274 0 274 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 476.71 0 476.71 0 476.71 0 476.71 0 476.71 274 476.71 274 476.71 274 476.71 274 0 274 0 274 0 274 0 274 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="-1" PTYPE="2" XPOS="861.008503937008" YPOS="3493.17804878049" WIDTH="430" HEIGHT="242.136585365854" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.223958333333333" LOCALSCY="0.223958333333333" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="image_files/new electronics box and new Wifi.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 430 0 430 0 430 0 430 0 430 242.137 430 242.137 430 242.137 430 242.137 0 242.137 0 242.137 0 242.137 0 242.137 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 430 0 430 0 430 0 430 0 430 242.137 430 242.137 430 242.137 430 242.137 0 242.137 0 242.137 0 242.137 0 242.137 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="-1" PTYPE="4" XPOS="40.3707089212601" YPOS="36.9455119999998" WIDTH="492.9448819" HEIGHT="159.032536780488" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="CM-Navy" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (14)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="7.086614173" TEXTRA="7.086614173" BEXTRA="7.086614173" REXTRA="7.086614173" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 159.033 492.945 159.033 492.945 159.033 492.945 159.033 0 159.033 0 159.033 0 159.033 0 159.033 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 159.033 492.945 159.033 492.945 159.033 492.945 159.033 0 159.033 0 159.033 0 159.033 0 159.033 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Neighbors Helping Neighbors"/>
+            <para PARENT="FeatureTitleParagraphStyle"/>
+            <ITEXT CH="Check out a new CMIA facebook group: Carrollton Manor Neighbors Helping Neighbors Networking Group. Are you a business owner, or have services to offer? Are you looking for recommendations for various home services? Support your neighbors, advertise, and look for recommendations here. Contact Anna Lavender for more info."/>
+            <para PARENT="FeatureTextParagraphStyle"/>
+            <ITEXT CH="https://www.facebook.com/groups/363537217823304/?hc_location=group "/>
+            <trail PARENT="FeatureSubtitleParagraphStyle" ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="-1" PTYPE="4" XPOS="45.3707089212601" YPOS="211.685669" WIDTH="492.9448819" HEIGHT="155.207013926829" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (15)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 155.207 492.945 155.207 492.945 155.207 492.945 155.207 0 155.207 0 155.207 0 155.207 0 155.207 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 155.207 492.945 155.207 492.945 155.207 492.945 155.207 0 155.207 0 155.207 0 155.207 0 155.207 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="CMIA Security"/>
+            <para PARENT="FeatureTitleParagraphStyle"/>
+            <ITEXT CH="If you see a criminal activity, or suspect a problem in progress, "/>
+            <ITEXT FONT="Nimbus Sans Bold" CH="please call 911"/>
+            <ITEXT CH=" to report it immediately and be prepared to give details. If the problem involves a vehicle, have a description of the vehicle, such as make, model, color and the license plate ready. If the problem involves a residence, have the street address when reporting the situation. The Anne Arundel County Police Department is committed to working with us, however, they need to know what is happening! You can remain anonymous!"/>
+            <para PARENT="FeatureTextParagraphStyle"/>
+            <ITEXT CH="Remember, we need everyone’s help to keep our neighborhood safe. This is a wonderful place to live!! Let’s all help keep it that way!"/>
+            <trail PARENT="FeatureTextParagraphStyle"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="-1" PTYPE="4" XPOS="38.3707089212601" YPOS="390.685669" WIDTH="492.9448819" HEIGHT="166.670428560976" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (16)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 166.67 492.945 166.67 492.945 166.67 492.945 166.67 0 166.67 0 166.67 0 166.67 0 166.67 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 166.67 492.945 166.67 492.945 166.67 492.945 166.67 0 166.67 0 166.67 0 166.67 0 166.67 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Community Sharing Online "/>
+            <para PARENT="FeatureTitleParagraphStyle"/>
+            <ITEXT CH="Facebook can be a wonderful way to share ideas and information, announce events, look for services, and communicate with your friends and neighbors. Our CMIA Community Facebook page lets us all know what is going on in our community and the area. However, when posting, please remember that we are a community. Keep posts and comments respectful. We are all neighbors."/>
+            <para PARENT="FeatureTextParagraphStyle"/>
+            <ITEXT FONT="Nimbus Sans Bold" CH="Remember what we learned in kindergarten……. Be Nice"/>
+            <para PARENT="FeatureTitleParagraphStyle"/>
+            <ITEXT CH="Play fair, share, don’t hurt others, tell the truth, and respect others"/>
+            <trail PARENT="FeatureTextParagraphStyle"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="-1" PTYPE="4" XPOS="1338.37070892126" YPOS="19.9455119999998" WIDTH="492.9448819" HEIGHT="259.179227962358" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="CM-Navy" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of Feature4Title (17)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="7.086614173" TEXTRA="7.086614173" BEXTRA="7.086614173" REXTRA="7.086614173" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 259.179 492.945 259.179 492.945 259.179 492.945 259.179 0 259.179 0 259.179 0 259.179 0 259.179 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 492.945 0 492.945 0 492.945 0 492.945 0 492.945 259.179 492.945 259.179 492.945 259.179 492.945 259.179 0 259.179 0 259.179 0 259.179 0 259.179 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="16" CH="Enjoy your time at the beach, or on the water!!!!"/>
+            <breakline/>
+            <ITEXT CH="Take home a wonderful memory of your day … BUT … "/>
+            <breakline/>
+            <ITEXT CH="Please do not leave a memory of you at the beach!"/>
+            <para PARENT="FeatureSubtitleParagraphStyle" ALIGN="1"/>
+            <ITEXT FONTSIZE="11" CH="Here are the decomposition rates for some of the most commonly thrown trash and litter:"/>
+            <para PARENT="FeatureTextParagraphStyle"/>
+            <ITEXT FONTSIZE="12" CH="Styrofoam cup: 50 years "/>
+            <tab FONTSIZE="12"/>
+            <tab FONTSIZE="12"/>
+            <tab FONTSIZE="12"/>
+            <ITEXT FONTSIZE="12" CH="Glass bottle: 1 million years "/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT FONTSIZE="12" CH="Plastic bag: 100—200 years "/>
+            <tab FONTSIZE="12"/>
+            <tab FONTSIZE="12"/>
+            <ITEXT FONTSIZE="12" CH="Plastic beverage bottle: 450 years"/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT FONTSIZE="12" CH="Tin cans: 50 years "/>
+            <tab FONTSIZE="12"/>
+            <tab FONTSIZE="12"/>
+            <tab FONTSIZE="12"/>
+            <tab FONTSIZE="12"/>
+            <ITEXT FONTSIZE="12" CH="Plastic film canister: 20—30 years "/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT FONTSIZE="12" CH="Cigarette butt: 10—12 years "/>
+            <tab FONTSIZE="12"/>
+            <tab FONTSIZE="12"/>
+            <ITEXT FONTSIZE="12" CH="Aluminum (beer) cans: 80 –200 years"/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT FONTSIZE="12" CH="Paper/paper towels: 2-5 months"/>
+            <tab FONTSIZE="12"/>
+            <tab FONTSIZE="12"/>
+            <ITEXT FONTSIZE="12" CH="Orange or banana peel: 2 to 5 weeks"/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT FONTSIZE="12" CH="Disposable Diaper: 75-100+ years"/>
+            <tab FONTSIZE="12"/>
+            <ITEXT FONTSIZE="12" CH="Apple core: 2 months "/>
+            <tab FONTSIZE="12"/>
+            <tab FONTSIZE="12"/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT FONTSIZE="12" CH="Monofilament fishing line: 600 years"/>
+            <tab FONTSIZE="12"/>
+            <tab/>
+            <para PARENT="FeatureListTextParagraphStyle"/>
+            <ITEXT FONT="Nimbus Sans Italic" CH="Remember how long some items stick around. Please dispose of all trash and litter properly…… never leave trash behind OR throw it from your car or boat!"/>
+            <para PARENT="FeatureListTextParagraphStyle" ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
